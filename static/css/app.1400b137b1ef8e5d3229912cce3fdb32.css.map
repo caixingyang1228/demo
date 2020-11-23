@@ -1,1 +1,0 @@
-{"version":3,"sources":["app.1400b137b1ef8e5d3229912cce3fdb32.css"],"names":[],"mappings":"AACA,UACE,WAAY,CACZ,eACF,CACA,GACE,iBAAkB,CAClB,gBACF","file":"app.1400b137b1ef8e5d3229912cce3fdb32.css","sourcesContent":["\nhtml, body{\n  height: 100%;\n  overflow: hidden;\n}\ntd {\n  text-align: center;\n  line-height: 55px\n}\n"]}
